@@ -66,7 +66,7 @@
 
 ```bash
 # 1. Clone 專案
-git clone https://github.com/hpingsy/line-phishing-detector.git
+git clone https://github.com/YOUR_USERNAME/line-phishing-detector.git
 cd line-phishing-detector
 
 # 2. 安裝依賴
