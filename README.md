@@ -1,6 +1,6 @@
 # 🔍 LINE 偽冒下載網站偵測工具
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/line-phishing-detector/blob/main/LINE_釣魚黑名單_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hpingsy/line-phishing-detector/blob/main/LINE_釣魚黑名單_Colab.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -58,7 +58,7 @@
 
 ### 方法一：Google Colab（推薦，零安裝）
 
-1. 點擊上方 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/line-phishing-detector/blob/main/LINE_釣魚黑名單_Colab.ipynb) 徽章
+1. 點擊上方 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hpingsy/line-phishing-detector/blob/main/LINE_釣魚黑名單_Colab.ipynb) 徽章
 2. 點選「執行階段」→「全部執行」
 3. 等待完成後，Cell 6 會自動下載 ZIP 壓縮包
 
@@ -66,7 +66,7 @@
 
 ```bash
 # 1. Clone 專案
-git clone https://github.com/YOUR_USERNAME/line-phishing-detector.git
+git clone https://github.com/hpingsy/line-phishing-detector.git
 cd line-phishing-detector
 
 # 2. 安裝依賴
